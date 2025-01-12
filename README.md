@@ -1,6 +1,8 @@
 # ECSEval
 ECSEval is a Python package designed to evaluate AI-generated summaries against human-curated (SME) summaries and reference data. It focuses on metrics like factual accuracy, relevance, and completeness while leveraging Natural Language Inference (NLI) and Large Language Models (LLMs) for advanced text analysis.
 
+[![PyPI Downloads](https://static.pepy.tech/badge/ecseval)](https://pepy.tech/projects/ecseval)
+
 ![env contamination](https://github.com/user-attachments/assets/27ab7e23-d081-4a3f-98d6-010025db403b)
 
 ## Installation
