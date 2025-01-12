@@ -1,4 +1,4 @@
-# ECSEval
+# ECSEval - Environmental Contamination Summary Evaluation
 ECSEval is a Python package designed to evaluate AI-generated summaries against human-curated (SME) summaries and reference data. It focuses on metrics like factual accuracy, relevance, and completeness while leveraging Natural Language Inference (NLI) and Large Language Models (LLMs) for advanced text analysis.
 
 [![PyPI Downloads](https://static.pepy.tech/badge/ecseval)](https://pepy.tech/projects/ecseval)
