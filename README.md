@@ -1,2 +1,2 @@
 # ECSEval
-Evaluating summaries
+Evaluating environmental contamination summaries
